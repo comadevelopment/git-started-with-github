@@ -1,0 +1,8 @@
+<Servers>
+    <Server>
+        <name>Server1</name>
+        <owner>John</owner>
+        <created>123456</created>
+        <status>active</status>
+    </Server>
+</Servers>

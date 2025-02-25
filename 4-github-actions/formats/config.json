@@ -1,0 +1,8 @@
+{
+    "Server": [{
+        "name": "Server1",
+        "owner": "John",
+        "created": 123456,
+        "status": "active"
+    }]
+}

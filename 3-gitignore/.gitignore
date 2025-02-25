@@ -1,0 +1,11 @@
+## Practice with the following patterns:
+
+# /main.py
+# /!main.py
+# main.py
+# *.py
+# lib
+# src/lib/main.py
+
+# src/**/*.py
+# !src/1.py
